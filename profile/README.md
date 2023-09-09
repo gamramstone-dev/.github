@@ -2,5 +2,5 @@
 
 ## Links
 
-- [자막 적용 페이지](https://gamramstone.wesub.io)
-- [Workspace](https://workspace.wesub.io)
+- [자막 적용 페이지](https://upload.gamramstone.com)
+- [Workspace](https://gamramstone.com)
